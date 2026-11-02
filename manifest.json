@@ -9,7 +9,7 @@
   "dir": "rtl",
   "icons": [
     {
-      "src": "assets/vanguard-logo.png",
+      "src": "vanguard-logo.png",
       "sizes": "any",
       "type": "image/png",
       "purpose": "any"
